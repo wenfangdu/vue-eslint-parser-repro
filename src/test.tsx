@@ -1,0 +1,2 @@
+// 👇 no error
+console.log()
